@@ -1,0 +1,1 @@
+aws resourcegroupstaggingapi get-resources --tag-filters Key=Tribo,Values=Plataforma
